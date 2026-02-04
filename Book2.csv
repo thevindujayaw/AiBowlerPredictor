@@ -1,0 +1,301 @@
+﻿match_type,pitch_type,weather,ground,your_team,opposition_team,bowler_name,bowler_type,wickets,runs,economy,did_bowler_do_well
+ODI,Flat,Overcast,Pallekele International,Sri Lanka,Bangladesh,Chameera,RightArmFast,3,51,6.37,1
+T20,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Pakistan,Chameera,RightArmFast,4,20,5.00,1
+T20,Slow,Dry,Arnos Vale Stadium,Sri Lanka,West Indies,Chameera,RightArmFast,2,17,4.25,1
+T20,Dry,Windy,Gabba,Sri Lanka,Australia,Chameera,RightArmFast,1,30,7.50,0
+T20,Flat,Overcast,Rawalpindi Cricket Stadium,Sri Lanka,India,Chameera,RightArmFast,1,31,7.75,0
+ODI,Green,Cloudy,McLean Park,Sri Lanka,New Zealand,Chameera,RightArmFast,2,60,6.00,0
+ODI,Flat,Hot,R Premadasa Stadium,Sri Lanka,Zimbabwe,Chameera,RightArmFast,2,44,5.50,1
+ODI,Flat,Sunny,M Chinnaswamy Stadium,Sri Lanka,Afghanistan,Chameera,RightArmFast,2,55,7.33,0
+ODI,Dry,Humid,Mahinda Rajapaksha Intl.,Sri Lanka,Australia,Chameera,RightArmFast,2,19,3.80,1
+ODI,Spinning,Hot,Wankhede Stadium Mumbai,Sri Lanka,India,Chameera,RightArmFast,1,71,7.88,0
+ODI,Flat,Sunny,Galle International,Sri Lanka,Afghanistan,Chameera,RightArmFast,4,63,6.30,1
+ODI,Dry,Humid,Shere Bangla Stadium,Sri Lanka,Bangladesh,Chameera,RightArmFast,5,16,1.60,1
+ODI,Flat,Overcast,Pallekele International,Sri Lanka,Australia,Chameera,RightArmFast,1,49,5.44,0
+ODI,Green,Cloudy,Seddon Park Hamilton,Sri Lanka,New Zealand,Chameera,RightArmFast,1,20,4.00,0
+ODI,Dry,Hot,Mahinda Rajapaksha Intl.,Sri Lanka,Pakistan,Chameera,RightArmFast,0,63,6.30,0
+ODI,Flat,Sunny,R Premadasa Stadium,Sri Lanka,Zimbabwe,Chameera,RightArmFast,2,20,2.50,1
+ODI,Green,Overcast,Rawalpindi Cricket Stadium,Sri Lanka,Pakistan,Chameera,RightArmFast,2,58,5.80,0
+ODI,Slow,Humid,Queens Sports Club,Sri Lanka,Zimbabwe,Chameera,RightArmFast,3,52,5.20,1
+ODI,Dry,Hot,R Premadasa Stadium,Sri Lanka,South Africa,Chameera,RightArmFast,2,19,2.37,1
+T20,Flat,Sunny,Kardinia Park Geelong,Sri Lanka,UAE,Chameera,RightArmFast,3,15,3.75,1
+T20,Spinning,Dry,Galle International,Sri Lanka,England,Chameera,RightArmFast,4,17,4.25,1
+T20,Flat,Overcast,Adelaide Oval,Sri Lanka,New Zealand,Chameera,RightArmFast,0,26,6.50,0
+T20,Dry,Windy,Pallekele International,Sri Lanka,India,Chameera,RightArmFast,2,29,7.25,0
+T20,Flat,Hot,Shere Bangla Stadium,Sri Lanka,Bangladesh,Chameera,RightArmFast,1,31,7.75,0
+T20,Green,Cloudy,Gaddafi Stadium Lahore,Sri Lanka,Pakistan,Chameera,RightArmFast,1,50,12.50,0
+T20,Dry,Sunny,Rangiri Dambulla Intl.,Sri Lanka,Zimbabwe,Chameera,RightArmFast,3,30,7.50,1
+T20,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Bangladesh,Chameera,RightArmFast,1,32,8.00,0
+T20,Flat,Overcast,Harare Sports Club,Sri Lanka,Zimbabwe,Chameera,RightArmFast,3,19,4.75,1
+T20,Dry,Hot,R Premadasa Stadium,Sri Lanka,Afghanistan,Chameera,RightArmFast,2,33,8.25,0
+ODI,Flat,Sunny,Hyderabad,Sri Lanka,Pakistan,Madushanka,LeftArmFastMedium,2,60,6.44,1
+ODI,Slow,Hot,Ekana Stadium Lucknow,Sri Lanka,Australia,Madushanka,LeftArmFastMedium,3,38,4.14,1
+ODI,Dry,Sunny,Ekana Stadium Lucknow,Sri Lanka,Netherlands,Madushanka,LeftArmFastMedium,4,49,5.20,1
+ODI,Green,Cloudy,M. Chinnaswamy Stadium,Sri Lanka,England,Madushanka,LeftArmFastMedium,0,37,7.40,0
+ODI,Flat,Sunny,MCA Stadium Pune,Sri Lanka,Afghanistan,Madushanka,LeftArmFastMedium,2,48,5.33,1
+ODI,Slow,Overcast,Shere Bangla Stadium,Sri Lanka,Bangladesh,Madushanka,LeftArmFastMedium,2,30,4.40,1
+ODI,Flat,Humid,Pallekele International,Sri Lanka,Afghanistan,Madushanka,LeftArmFastMedium,2,28,4.11,1
+ODI,Dry,Hot,Harare Sports Club,Sri Lanka,Zimbabwe,Madushanka,LeftArmFastMedium,3,15,5.00,1
+ODI,Flat,Cloudy,R Premadasa Stadium,Sri Lanka,Zimbabwe,Madushanka,LeftArmFastMedium,2,0,0.00,1
+ODI,Green,Sunny,Seddon Park,Sri Lanka,New Zealand,Madushanka,LeftArmFastMedium,1,39,3.90,0
+T20,Flat,Dry,Dubai International Stadium,Sri Lanka,India,Madushanka,LeftArmFastMedium,3,24,6.00,1
+T20,Dry,Hot,Dubai International Stadium,Sri Lanka,Pakistan,Madushanka,LeftArmFastMedium,0,24,8.00,0
+T20,Spinning,Humid,Sharjah Cricket Stadium,Sri Lanka,Afghanistan,Madushanka,LeftArmFastMedium,2,36,9.00,0
+T20,Flat,Sunny,Pallekele International,Sri Lanka,India,Madushanka,LeftArmFastMedium,1,45,11.25,0
+T20,Slow,Dry,Sylhet International Stadium,Sri Lanka,Bangladesh,Madushanka,LeftArmFastMedium,0,34,8.50,0
+T20,Dry,Humid,R Premadasa Stadium,Sri Lanka,Zimbabwe,Madushanka,LeftArmFastMedium,1,24,6.00,0
+T20,Flat,Windy,Eden Park Auckland,Sri Lanka,New Zealand,Madushanka,LeftArmFastMedium,0,18,9.00,0
+T20,Green,Cloudy,John Davies Oval,Sri Lanka,New Zealand,Madushanka,LeftArmFastMedium,1,45,11.25,0
+T20,Flat,Sunny,Saurashtra Cricket Assoc,Sri Lanka,India,Madushanka,LeftArmFastMedium,2,55,13.75,0
+T20,Dry,Hot,MA Chidambaram Stadium,Sri Lanka,India,Madushanka,LeftArmFastMedium,1,35,8.75,0
+ODI,Flat,Hot,Wankhede Stadium Mumbai,Sri Lanka,India,Madushanka,LeftArmFastMedium,5,80,8.00,1
+ODI,Green,Overcast,Hagley Oval Christchurch,Sri Lanka,New Zealand,Madushanka,LeftArmFastMedium,2,44,4.40,1
+ODI,Slow,Cloudy,Arun Jaitley Stadium Delhi,Sri Lanka,Bangladesh,Madushanka,LeftArmFastMedium,3,69,6.90,1
+ODI,Dry,Humid,Rangiri Dambulla Intl.,Sri Lanka,Australia,Madushanka,LeftArmFastMedium,1,50,5.00,0
+ODI,Green,Overcast,Riverside Ground Durham,Sri Lanka,England,Madushanka,LeftArmFastMedium,2,28,3.11,1
+T20,Spinning,Humid,Dubai International Stadium,Sri Lanka,Afghanistan,Madushanka,LeftArmFastMedium,3,24,6.00,1
+T20,Dry,Sunny,R Premadasa Stadium,Sri Lanka,Zimbabwe,Madushanka,LeftArmFastMedium,1,22,5.50,0
+T20,Flat,Windy,Himachal Pradesh Stadium,Sri Lanka,India,Madushanka,LeftArmFastMedium,2,45,11.25,0
+T20,Dry,Hot,Barsapara Stadium Guwahati,Sri Lanka,West Indies,Madushanka,LeftArmFastMedium,1,35,8.75,0
+T20,Flat,Sunny,Kingsmead Durban,Sri Lanka,South Africa,Madushanka,LeftArmFastMedium,0,34,8.50,0
+ODI,Flat,Hot,Rajiv Gandhi Stadium,Sri Lanka,Pakistan,Pathirana,RightArmFast,1,90,10.00,0
+ODI,Dry,Sunny,Arun Jaitley Stadium,Sri Lanka,South Africa,Pathirana,RightArmFast,1,95,9.50,0
+ODI,Slow,Humid,R Premadasa Stadium,Sri Lanka,Pakistan,Pathirana,RightArmFast,3,65,8.12,1
+ODI,Spinning,Cloudy,R Premadasa Stadium,Sri Lanka,Bangladesh,Pathirana,RightArmFast,3,58,6.33,1
+ODI,Flat,Sunny,Gaddafi Stadium,Sri Lanka,Afghanistan,Pathirana,RightArmFast,1,63,6.30,0
+ODI,Green,Overcast,Pallekele International,Sri Lanka,Bangladesh,Pathirana,RightArmFast,4,32,4.17,1
+ODI,Slow,Dry,Harare Sports Club,Sri Lanka,West Indies,Pathirana,RightArmFast,1,61,6.10,0
+ODI,Dry,Sunny,Harare Sports Club,Sri Lanka,Netherlands,Pathirana,RightArmFast,0,16,5.33,0
+ODI,Flat,Windy,Mahinda Rajapaksa Intl.,Sri Lanka,Afghanistan,Pathirana,RightArmFast,1,66,7.47,0
+ODI,Spinning,Cloudy,R Premadasa Stadium,Sri Lanka,India,Pathirana,RightArmFast,0,31,7.75,0
+T20,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Afghanistan,Pathirana,RightArmFast,4,24,6.00,1
+T20,Slow,Overcast,Rangiri Dambulla Intl.,Sri Lanka,New Zealand,Pathirana,RightArmFast,3,11,2.75,1
+T20,Green,Windy,Daren Sammy Stadium,Sri Lanka,Netherlands,Pathirana,RightArmFast,2,12,3.00,1
+T20,Flat,Humid,Pallekele International,Sri Lanka,India,Pathirana,RightArmFast,4,40,10.00,1
+T20,Dry,Sunny,Pallekele International,Sri Lanka,India,Pathirana,RightArmFast,1,18,13.80,0
+T20,Flat,Hot,Shere Bangla Stadium,Sri Lanka,Bangladesh,Pathirana,RightArmFast,0,42,10.50,0
+T20,Slow,Cloudy,Nassau County Stadium,Sri Lanka,South Africa,Pathirana,RightArmFast,0,12,3.00,0
+T20,Flat,Windy,Providence Stadium Guyana,Sri Lanka,West Indies,Pathirana,RightArmFast,2,27,8.10,1
+T20,Dry,Sunny,Sylhet International Stadium,Sri Lanka,Bangladesh,Pathirana,RightArmFast,2,28,7.00,1
+T20,Spinning,Humid,Rangiri Dambulla Intl.,Sri Lanka,New Zealand,Pathirana,RightArmFast,2,25,8.33,1
+T20,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Afghanistan,Pathirana,RightArmFast,4,24,6.00,1
+ODI,Green,Overcast,The Oval London,Sri Lanka,England,Pathirana,RightArmFast,1,61,6.10,0
+T20,Flat,Dry,Eden Park Auckland,Sri Lanka,New Zealand,Pathirana,RightArmFast,1,37,9.25,0
+ODI,Slow,Cloudy,Gaddafi Stadium Lahore,Sri Lanka,Pakistan,Pathirana,RightArmFast,3,65,8.12,1
+T20,Dry,Sunny,Sylhet International Stadium,Sri Lanka,Bangladesh,Pathirana,RightArmFast,2,28,7.00,1
+ODI,Flat,Hot,M Chinnaswamy Stadium Bengaluru,Sri Lanka,South Africa,Pathirana,RightArmFast,1,95,9.50,0
+T20,Flat,Windy,Providence Stadium Guyana,Sri Lanka,West Indies,Pathirana,RightArmFast,2,27,8.10,1
+ODI,Dry,Humid,Rangiri Dambulla Intl.,Sri Lanka,Afghanistan,Pathirana,RightArmFast,1,66,6.60,0
+T20,Green,Overcast,Newlands Cape Town,Sri Lanka,Australia,Pathirana,RightArmFast,1,30,7.50,0
+ODI,Dry,Sunny,Queens Sports Club Bulawayo,Sri Lanka,Zimbabwe,Pathirana,RightArmFast,2,18,3.60,1
+T20,Flat,Sunny,Sylhet International Stadium,Sri Lanka,Bangladesh,Thushara,RightArmFast,5,20,5.00,1
+T20,Dry,Humid,R Premadasa Stadium,Sri Lanka,India,Thushara,RightArmFast,0,43,10.75,0
+T20,Green,Overcast,Sydney Cricket Ground,Sri Lanka,Australia,Thushara,RightArmFast,2,37,9.25,0
+T20,Spinning,Dry,Grand Prairie Stadium,Sri Lanka,Bangladesh,Thushara,RightArmFast,4,18,4.50,1
+T20,Flat,Windy,Daren Sammy Stadium,Sri Lanka,Netherlands,Thushara,RightArmFast,3,24,6.00,1
+ODI,Dry,Hot,R Premadasa Stadium,Sri Lanka,Australia,Thushara,RightArmFast,2,33,4.12,1
+ODI,Green,Cloudy,Pallekele International,Sri Lanka,Zimbabwe,Thushara,RightArmFast,1,68,6.80,0
+ODI,Flat,Sunny,Mahinda Rajapaksha Intl.,Sri Lanka,Australia,Thushara,RightArmFast,1,62,6.20,0
+ODI,Dry,Humid,Galle International,Sri Lanka,New Zealand,Thushara,RightArmFast,0,30,6.00,0
+ODI,Slow,Overcast,Sharjah Cricket Stadium,Sri Lanka,Pakistan,Thushara,RightArmFast,1,42,4.20,0
+T20,Flat,Hot,Sheikh Zayed Stadium,Sri Lanka,Afghanistan,Thushara,RightArmFast,4,18,4.50,1
+T20,Dry,Sunny,Dubai International,Sri Lanka,Pakistan,Thushara,RightArmFast,0,29,9.67,0
+T20,Slow,Cloudy,Harare Sports Club,Sri Lanka,Zimbabwe,Thushara,RightArmFast,0,30,10.00,0
+T20,Spinning,Humid,Pallekele International,Sri Lanka,Bangladesh,Thushara,RightArmFast,1,42,10.50,0
+T20,Flat,Overcast,Rangiri Dambulla Intl.,Sri Lanka,New Zealand,Thushara,RightArmFast,2,22,5.50,1
+T20,Green,Overcast,Rangiri Dambulla Intl.,Sri Lanka,New Zealand,Thushara,RightArmFast,2,14,3.50,1
+T20,Dry,Cloudy,Rangiri Dambulla Intl.,Sri Lanka,West Indies,Thushara,RightArmFast,1,27,6.75,0
+T20,Flat,Hot,Wankhede Stadium,Sri Lanka,Lucknow Super Giants,Thushara,RightArmFast,3,28,7.00,1
+T20,Green,Sunny,Nassau County Stadium,Sri Lanka,South Africa,Thushara,RightArmFast,0,28,7.00,0
+T20,Slow,Humid,Rangiri Dambulla Intl.,Sri Lanka,West Indies,Thushara,RightArmFast,0,9,3.00,0
+ODI,Slow,Hot,NCC Ground Colombo,Sri Lanka,Nugegoda SC,Thushara,RightArmFast,4,35,4.38,1
+ODI,Spinning,Sunny,SSC Ground Colombo,Sri Lanka,Saracens SC,Thushara,RightArmFast,3,22,3.67,1
+ODI,Flat,Cloudy,Colombo Cricket Club,Sri Lanka,Sebastianites,Thushara,RightArmFast,1,28,4.00,0
+ODI,Green,Overcast,Ragama Ground,Sri Lanka,Ragama CC,Thushara,RightArmFast,0,41,5.86,0
+ODI,Dry,Humid,Colts Ground,Sri Lanka,Colts CC,Thushara,RightArmFast,2,19,3.17,1
+ODI,Flat,Hot,Ace Capital Ground,Sri Lanka,Ace Capital,Thushara,RightArmFast,2,45,5.00,1
+ODI,Slow,Sunny,Kurunegala Ground,Sri Lanka,Kurunegala YCC,Thushara,RightArmFast,1,31,4.43,0
+ODI,Dry,Humid,Police Park,Sri Lanka,Police SC,Thushara,RightArmFast,1,44,5.50,0
+ODI,Slow,Overcast,NCC Ground,Sri Lanka,Panadura SC,Thushara,RightArmFast,1,30,6.00,0
+ODI,Green,Cloudy,Galle International,Sri Lanka,Galle CC,Thushara,RightArmFast,2,25,5.00,1
+ODI,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Zimbabwe,Hasaranga,RightArmLegBreak,7,19,3.45,1
+ODI,Dry,Sunny,Sydney Cricket Ground,Sri Lanka,Australia,Hasaranga,RightArmLegBreak,3,54,5.40,1
+ODI,Flat,Overcast,The Oval London,Sri Lanka,South Africa,Hasaranga,RightArmLegBreak,2,45,4.50,1
+ODI,Green,Cloudy,McLean Park Napier,Sri Lanka,New Zealand,Hasaranga,RightArmLegBreak,2,28,4.66,1
+ODI,Slow,Hot,Gros Islet,Sri Lanka,West Indies,Hasaranga,RightArmLegBreak,1,42,4.20,0
+T20,Spinning,Humid,R Premadasa Stadium,Sri Lanka,India,Hasaranga,RightArmLegBreak,4,9,2.25,1
+T20,Flat,Dry,Gaddafi Stadium Lahore,Sri Lanka,Pakistan,Hasaranga,RightArmLegBreak,3,21,5.25,1
+T20,Dry,Windy,Dubai International Stadium,Sri Lanka,Australia,Hasaranga,RightArmLegBreak,3,20,5.00,1
+T20,Flat,Sunny,Rawalpindi Cricket Stadium,Sri Lanka,Pakistan,Hasaranga,RightArmLegBreak,2,31,7.75,0
+T20,Green,Overcast,Newlands Cape Town,Sri Lanka,South Africa,Hasaranga,RightArmLegBreak,3,38,9.50,1
+ODI,Slow,Overcast,Pallekele International,Sri Lanka,West Indies,Hasaranga,RightArmLegBreak,4,40,4.00,1
+ODI,Spinning,Humid,Pallekele International,Sri Lanka,West Indies,Hasaranga,RightArmLegBreak,2,18,3.00,1
+ODI,Flat,Sunny,Queens Sports Club,Sri Lanka,UAE,Hasaranga,RightArmLegBreak,6,24,3.00,1
+ODI,Dry,Sunny,Bulawayo Athletic Club,Sri Lanka,Oman,Hasaranga,RightArmLegBreak,5,13,1.81,1
+ODI,Flat,Hot,Queens Sports Club,Sri Lanka,Ireland,Hasaranga,RightArmLegBreak,5,79,7.90,1
+ODI,Spinning,Sunny,Harare Sports Club,Sri Lanka,Netherlands,Hasaranga,RightArmLegBreak,2,35,3.80,1
+ODI,Spinning,Humid,R Premadasa Stadium,Sri Lanka,India,Hasaranga,RightArmLegBreak,3,58,5.80,1
+ODI,Slow,Cloudy,Pallekele International,Sri Lanka,Afghanistan,Hasaranga,RightArmLegBreak,1,34,3.40,0
+ODI,Flat,Sunny,Multan Cricket Stadium,Sri Lanka,Pakistan,Hasaranga,RightArmLegBreak,3,54,5.40,1
+ODI,Spinning,Overcast,R Premadasa Stadium,Sri Lanka,Bangladesh,Hasaranga,RightArmLegBreak,2,35,4.04,1
+T20,Flat,Windy,Rangiri Dambulla Intl.,Sri Lanka,New Zealand,Hasaranga,RightArmLegBreak,4,17,4.25,1
+T20,Dry,Sunny,Rangiri Dambulla Intl.,Sri Lanka,New Zealand,Hasaranga,RightArmLegBreak,2,20,5.00,1
+T20,Flat,Windy,Rangiri Dambulla Intl.,Sri Lanka,West Indies,Hasaranga,RightArmLegBreak,2,24,6.00,1
+T20,Slow,Humid,Pallekele International,Sri Lanka,India,Hasaranga,RightArmLegBreak,1,28,7.00,0
+T20,Slow,Sunny,Nassau County Stadium,Sri Lanka,South Africa,Hasaranga,RightArmLegBreak,2,22,5.50,1
+T20,Flat,Humid,Grand Prairie Stadium,Sri Lanka,Bangladesh,Hasaranga,RightArmLegBreak,2,32,8.00,0
+T20,Flat,Windy,Rangiri Dambulla Intl.,Sri Lanka,Afghanistan,Hasaranga,RightArmLegBreak,2,19,4.75,0
+T20,Dry,Sunny,Rangiri Dambulla Intl.,Sri Lanka,Afghanistan,Hasaranga,RightArmLegBreak,1,20,5.00,1
+T20,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Zimbabwe,Hasaranga,RightArmLegBreak,2,19,4.75,0
+T20,Flat,Dry,Rawalpindi Stadium,Sri Lanka,Pakistan,Hasaranga,RightArmLegBreak,1,27,6.75,1
+T20,Spinning,Humid,Sharjah Cricket Stadium,Sri Lanka,Ireland,Theekshana,RightArmOffBreak,3,17,4.25,1
+T20,Flat,Dry,R Premadasa Stadium,Sri Lanka,West Indies,Theekshana,RightArmOffBreak,2,19,4.75,1
+T20,Green,Overcast,Gabba Brisbane,Sri Lanka,Australia,Theekshana,RightArmOffBreak,2,37,9.25,0
+T20,Dry,Sunny,Dubai International Stadium,Sri Lanka,India,Theekshana,RightArmOffBreak,1,36,9.00,0
+T20,Flat,Windy,Pallekele International,Sri Lanka,Zimbabwe,Theekshana,RightArmOffBreak,2,23,5.75,1
+ODI,Spinning,Humid,R Premadasa Stadium,Sri Lanka,South Africa,Theekshana,RightArmOffBreak,4,37,4.00,1
+ODI,Green,Cloudy,Seddon Park Hamilton,Sri Lanka,New Zealand,Theekshana,RightArmOffBreak,4,44,5.50,1
+ODI,Dry,Hot,Queens Sports Club Bulawayo,Sri Lanka,West Indies,Theekshana,RightArmOffBreak,3,25,3.12,1
+ODI,Flat,Sunny,Mahinda Rajapaksha Intl.,Sri Lanka,Australia,Theekshana,RightArmOffBreak,2,32,3.55,1
+ODI,Slow,Overcast,National Cricket Stadium,Sri Lanka,Pakistan,Theekshana,RightArmOffBreak,1,37,3.70,0
+T20,Flat,Windy,Rangiri Dambulla Intl.,Sri Lanka,West Indies,Theekshana,RightArmOffBreak,2,7,1.75,1
+T20,Flat,Windy,Rangiri Dambulla Intl.,Sri Lanka,West Indies,Theekshana,RightArmOffBreak,2,19,4.75,1
+T20,Flat,Windy,Rangiri Dambulla Intl.,Sri Lanka,New Zealand,Theekshana,RightArmOffBreak,1,16,4.00,1
+T20,Flat,Windy,Rangiri Dambulla Intl.,Sri Lanka,New Zealand,Theekshana,RightArmOffBreak,1,21,5.25,1
+T20,Green,Cloudy,Bay Oval Mt Maunganui,Sri Lanka,New Zealand,Theekshana,RightArmOffBreak,2,29,7.25,0
+T20,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Bangladesh,Theekshana,RightArmOffBreak,2,37,9.25,0
+T20,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Bangladesh,Theekshana,RightArmOffBreak,1,30,7.50,0
+T20,Flat,Sunny,Gaddafi Stadium Lahore,Sri Lanka,Pakistan,Theekshana,RightArmOffBreak,0,22,5.50,0
+T20,Slow,Sunny,Nassau County Intl.,Sri Lanka,South Africa,Theekshana,RightArmOffBreak,0,16,4.00,0
+T20,Dry,Hot,Grand Prairie Stadium,Sri Lanka,Bangladesh,Theekshana,RightArmOffBreak,0,25,6.25,0
+ODI,Slow,Overcast,Pallekele International,Sri Lanka,New Zealand,Theekshana,RightArmOffBreak,3,31,3.44,1
+ODI,Slow,Overcast,Pallekele International,Sri Lanka,New Zealand,Theekshana,RightArmOffBreak,2,32,3.55,1
+ODI,Green,Overcast,Seddon Park Hamilton,Sri Lanka,New Zealand,Theekshana,RightArmOffBreak,4,44,5.50,1
+ODI,Green,Sunny,Seddon Park Hamilton,Sri Lanka,New Zealand,Theekshana,RightArmOffBreak,3,35,3.50,1
+ODI,Slow,Overcast,Pallekele International,Sri Lanka,West Indies,Theekshana,RightArmOffBreak,3,25,2.77,1
+ODI,Spinning,Humid,R Premadasa Stadium,Sri Lanka,India,Theekshana,RightArmOffBreak,2,45,4.50,0
+ODI,Spinning,Overcast,R Premadasa Stadium,Sri Lanka,Zimbabwe,Theekshana,RightArmOffBreak,4,31,3.10,1
+ODI,Flat,Sunny,Multan Cricket Stadium,Sri Lanka,Pakistan,Theekshana,RightArmOffBreak,1,37,3.70,0
+ODI,Flat,Sunny,Multan Cricket Stadium,Sri Lanka,Pakistan,Theekshana,RightArmOffBreak,1,64,6.40,0
+ODI,Flat,Sunny,Pallekele International,Sri Lanka,Afghanistan,Theekshana,RightArmOffBreak,0,25,2.50,0
+ODI,Spinning,Humid,R Premadasa Stadium,Sri Lanka,India,Wellalage,LeftArmOrthodox,5,27,5.29,1
+ODI,Dry,Sunny,MA Chidambaram Stadium,Sri Lanka,Australia,Wellalage,LeftArmOrthodox,1,53,5.30,0
+ODI,Flat,Hot,R Premadasa Stadium,Sri Lanka,Australia,Wellalage,LeftArmOrthodox,4,35,4.82,1
+ODI,Green,Overcast,Rajiv Gandhi Stadium,Sri Lanka,Pakistan,Wellalage,LeftArmOrthodox,0,62,6.20,0
+ODI,Slow,Cloudy,Pallekele International,Sri Lanka,Bangladesh,Wellalage,LeftArmOrthodox,2,33,4.12,1
+T20,Flat,Dry,Rangiri Dambulla Intl.,Sri Lanka,West Indies,Wellalage,LeftArmOrthodox,3,9,2.25,1
+T20,Spinning,Humid,R Premadasa Stadium,Sri Lanka,India,Wellalage,LeftArmOrthodox,2,39,9.75,0
+T20,Flat,Windy,Pallekele International,Sri Lanka,New Zealand,Wellalage,LeftArmOrthodox,3,20,5.00,1
+T20,Dry,Sunny,Dubai International Stadium,Sri Lanka,Afghanistan,Wellalage,LeftArmOrthodox,1,49,12.25,0
+T20,Green,Overcast,Seddon Park Hamilton,Sri Lanka,Bangladesh,Wellalage,LeftArmOrthodox,0,36,9.00,0
+ODI,Spinning,Humid,R Premadasa Stadium,Sri Lanka,India,Wellalage,LeftArmOrthodox,5,40,4.00,1
+ODI,Spinning,Humid,R Premadasa Stadium,Sri Lanka,India,Wellalage,LeftArmOrthodox,0,41,4.10,0
+ODI,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Pakistan,Wellalage,LeftArmOrthodox,1,40,4.44,0
+ODI,Slow,Sunny,Pallekele International,Sri Lanka,Afghanistan,Wellalage,LeftArmOrthodox,2,38,3.80,1
+ODI,Slow,Sunny,Pallekele International,Sri Lanka,Afghanistan,Wellalage,LeftArmOrthodox,0,14,7.00,0
+ODI,Slow,Cloudy,Pallekele International,Sri Lanka,West Indies,Wellalage,LeftArmOrthodox,0,20,4.00,0
+ODI,Slow,Cloudy,Pallekele International,Sri Lanka,West Indies,Wellalage,LeftArmOrthodox,0,36,3.60,0
+ODI,Flat,Windy,Rangiri Dambulla Intl.,Sri Lanka,New Zealand,Wellalage,LeftArmOrthodox,1,24,3.42,1
+ODI,Slow,Overcast,Pallekele International,Sri Lanka,New Zealand,Wellalage,LeftArmOrthodox,1,46,4.60,0
+ODI,Spinning,Sunny,R Premadasa Stadium,Sri Lanka,Bangladesh,Wellalage,LeftArmOrthodox,0,32,3.20,0
+T20,Flat,Windy,Rangiri Dambulla Intl.,Sri Lanka,West Indies,Wellalage,LeftArmOrthodox,0,36,9.00,0
+T20,Flat,Windy,Rangiri Dambulla Intl.,Sri Lanka,New Zealand,Wellalage,LeftArmOrthodox,0,26,8.66,0
+T20,Flat,Windy,Pallekele International,Colombo Strikers,Kandy Falcons,Wellalage,LeftArmOrthodox,1,31,7.75,0
+T20,Flat,Windy,Pallekele International,Colombo Strikers,Galle Marvels,Wellalage,LeftArmOrthodox,0,28,7.00,0
+T20,Flat,Windy,Rangiri Dambulla Intl.,Colombo Strikers,Dambulla Sixers,Wellalage,LeftArmOrthodox,0,31,7.75,0
+T20,Spinning,Humid,R Premadasa Stadium,Colombo Strikers,Jaffna Kings,Wellalage,LeftArmOrthodox,1,20,5.00,1
+T20,Spinning,Humid,R Premadasa Stadium,Colombo Strikers,Galle Marvels,Wellalage,LeftArmOrthodox,1,15,5.00,1
+T20,Spinning,Humid,R Premadasa Stadium,Colombo Strikers,Dambulla Sixers,Wellalage,LeftArmOrthodox,2,25,6.25,1
+T20,Flat,Sunny,Pallekele International,Jaffna Kings,Colombo Strikers,Wellalage,LeftArmOrthodox,2,36,9.00,0
+T20,Flat,Sunny,Pallekele International,Jaffna Kings,Dambulla Aura,Wellalage,LeftArmOrthodox,1,19,4.75,0
+T20,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Australia,Vandersay,RightArmLegBreak,3,25,6.25,1
+T20,Flat,Dry,MA Chidambaram Stadium,Sri Lanka,India,Vandersay,RightArmLegBreak,0,35,8.75,0
+T20,Green,Overcast,Seddon Park Hamilton,Sri Lanka,New Zealand,Vandersay,RightArmLegBreak,1,25,6.25,0
+T20,Dry,Sunny,Shere Bangla Stadium,Sri Lanka,Bangladesh,Vandersay,RightArmLegBreak,2,35,8.75,0
+T20,Flat,Windy,Pallekele International,Sri Lanka,Pakistan,Vandersay,RightArmLegBreak,2,24,6.00,1
+ODI,Spinning,Hot,R Premadasa Stadium,Sri Lanka,Zimbabwe,Vandersay,RightArmLegBreak,4,36,3.60,1
+ODI,Flat,Cloudy,Lords London,Sri Lanka,England,Vandersay,RightArmLegBreak,3,49,5.44,1
+ODI,Dry,Humid,The Oval London,Sri Lanka,South Africa,Vandersay,RightArmLegBreak,2,52,5.20,0
+ODI,Green,Overcast,Wellington Regional Stadium,Sri Lanka,New Zealand,Vandersay,RightArmLegBreak,1,68,6.80,0
+ODI,Slow,Sunny,Mahinda Rajapaksha Intl.,Sri Lanka,Australia,Vandersay,RightArmLegBreak,1,45,4.50,0
+T20,Slow,Humid,R Premadasa Stadium,Sri Lanka,Bangladesh,Vandersay,RightArmLegBreak,0,29,7.25,0
+T20,Slow,Cloudy,R Premadasa Stadium,Sri Lanka,Bangladesh,Vandersay,RightArmLegBreak,0,40,10.00,0
+T20,Dry,Sunny,R Premadasa Stadium,Sri Lanka,Bangladesh,Vandersay,RightArmLegBreak,1,25,6.25,0
+T20,Flat,Humid,HPCA Stadium Dharamshala,Sri Lanka,India,Vandersay,RightArmLegBreak,0,24,10.28,0
+T20,Flat,Sunny,MCG Melbourne,Sri Lanka,Australia,Vandersay,RightArmLegBreak,1,32,8.00,0
+T20,Spinning,Hot,Colombo CC,SLC Greys,SLC Blues,Vandersay,RightArmLegBreak,0,22,7.33,0
+T20,Spinning,Humid,RPICS Colombo,SLC Blues,SLC Greens,Vandersay,RightArmLegBreak,0,32,11.20,0
+T20,Dry,Sunny,Moors Grounds,Moors SC,Bloomfield,Vandersay,RightArmLegBreak,3,20,5.00,1
+T20,Slow,Cloudy,Tamil Union,Bloomfield,Tamil Union,Vandersay,RightArmLegBreak,1,20,5.00,0
+T20,Flat,Hot,Police Park,Bloomfield,BRC,Vandersay,RightArmLegBreak,0,23,5.75,0
+ODI,Spinning,Humid,R Premadasa Stadium,Sri Lanka,India,Vandersay,RightArmLegBreak,6,33,3.30,1
+ODI,Spinning,Humid,R Premadasa Stadium,Sri Lanka,India,Vandersay,RightArmLegBreak,2,34,6.80,0
+ODI,Slow,Cloudy,Pallekele International,Sri Lanka,West Indies,Vandersay,RightArmLegBreak,1,45,5.40,0
+ODI,Spinning,Humid,Pallekele International,Sri Lanka,New Zealand,Vandersay,RightArmLegBreak,3,46,4.60,1
+ODI,Flat,Rainy,Pallekele International,Sri Lanka,New Zealand,Vandersay,RightArmLegBreak,1,40,6.60,0
+ODI,Slow,Hot,Gaddafi Stadium,Sri Lanka,Pakistan,Vandersay,RightArmLegBreak,3,42,4.20,1
+ODI,Spinning,Humid,Pallekele International,Sri Lanka,Zimbabwe,Vandersay,RightArmLegBreak,2,47,4.70,0
+ODI,Flat,Sunny,Pallekele International,Sri Lanka,Australia,Vandersay,RightArmLegBreak,2,40,5.70,1
+ODI,Spinning,Hot,Pallekele International,Sri Lanka,Zimbabwe,Vandersay,RightArmLegBreak,4,10,2.50,1
+ODI,Spinning,Humid,Pallekele International,Sri Lanka,Zimbabwe,Vandersay,RightArmLegBreak,3,51,5.10,1
+ODI,Flat,Hot,Headingley Leeds,Sri Lanka,England,DeSilva,RightArmOffBreak,3,32,3.20,1
+ODI,Green,Overcast,University Oval Dunedin,Sri Lanka,New Zealand,DeSilva,RightArmOffBreak,3,25,3.12,1
+ODI,Slow,Cloudy,Shere Bangla Stadium,Sri Lanka,Bangladesh,DeSilva,RightArmOffBreak,1,29,5.80,0
+ODI,Dry,Sunny,R Premadasa Stadium,Sri Lanka,Australia,DeSilva,RightArmOffBreak,0,40,4.44,0
+ODI,Spinning,Humid,Galle International,Sri Lanka,Afghanistan,DeSilva,RightArmOffBreak,0,21,3.00,0
+T20,Flat,Dry,New Wanderers Stadium,Sri Lanka,South Africa,DeSilva,RightArmOffBreak,2,22,5.50,1
+T20,Spinning,Hot,Sharjah Cricket Stadium,Sri Lanka,Australia,DeSilva,RightArmOffBreak,1,11,2.75,1
+T20,Dry,Windy,Pallekele International,Sri Lanka,Pakistan,DeSilva,RightArmOffBreak,2,36,9.00,0
+T20,Flat,Overcast,Adelaide Oval,Sri Lanka,New Zealand,DeSilva,RightArmOffBreak,1,20,5.00,0
+T20,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Bangladesh,DeSilva,RightArmOffBreak,0,15,5.00,0
+T20,Flat,Hot,Grand Prairie Dallas,Sri Lanka,Bangladesh,DeSilva,RightArmOffBreak,1,11,5.50,1
+T20,Slow,Humid,Sylhet Intl Stadium,Sri Lanka,Bangladesh,DeSilva,RightArmOffBreak,1,2,2.40,1
+T20,Green,Windy,Sir John Davies Queenstown,Sri Lanka,New Zealand,DeSilva,RightArmOffBreak,0,31,18.60,0
+T20,Flat,Overcast,University Oval Dunedin,Sri Lanka,New Zealand,DeSilva,RightArmOffBreak,0,20,6.66,0
+T20,Spinning,Sunny,SCG Sydney,Sri Lanka,England,DeSilva,RightArmOffBreak,1,12,6.00,0
+T20,Green,Sunny,The Gabba Brisbane,Sri Lanka,Afghanistan,DeSilva,RightArmOffBreak,1,18,4.50,0
+T20,Dry,Sunny,SCG Sydney,Sri Lanka,New Zealand,DeSilva,RightArmOffBreak,1,14,7.00,0
+T20,Green,Windy,Optus Stadium Perth,Sri Lanka,Australia,DeSilva,RightArmOffBreak,1,18,8.30,0
+T20,Slow,Humid,Dubai Intl Stadium,Sri Lanka,Pakistan,DeSilva,RightArmOffBreak,0,21,5.25,0
+T20,Spinning,Hot,Dubai Intl Stadium,Sri Lanka,India,DeSilva,RightArmOffBreak,0,14,7.00,0
+ODI,Flat,Cloudy,M Chinnaswamy Bengaluru,Sri Lanka,New Zealand,DeSilva,RightArmOffBreak,0,22,11.00,0
+ODI,Dry,Sunny,Arun Jaitley Delhi,Sri Lanka,Bangladesh,DeSilva,RightArmOffBreak,0,20,6.66,0
+ODI,Flat,Sunny,MCA Stadium Pune,Sri Lanka,Afghanistan,DeSilva,RightArmOffBreak,0,21,5.25,0
+ODI,Slow,Hot,Ekana Stadium Lucknow,Sri Lanka,Netherlands,DeSilva,RightArmOffBreak,0,13,3.25,0
+ODI,Slow,Dry,Ekana Stadium Lucknow,Sri Lanka,Australia,DeSilva,RightArmOffBreak,0,13,4.33,0
+ODI,Flat,Sunny,Rajiv Gandhi Intl Hyderabad,Sri Lanka,Pakistan,DeSilva,RightArmOffBreak,0,36,9.00,0
+ODI,Dry,Hot,Arun Jaitley Delhi,Sri Lanka,South Africa,DeSilva,RightArmOffBreak,0,39,9.75,0
+ODI,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Pakistan,DeSilva,RightArmOffBreak,0,28,4.66,0
+ODI,Flat,Hot,Gaddafi Stadium Lahore,Sri Lanka,Afghanistan,DeSilva,RightArmOffBreak,0,12,12.00,0
+ODI,Dry,Sunny,Harare Sports Club,Sri Lanka,Netherlands,DeSilva,RightArmOffBreak,1,6,3.00,1
+T20,Dry,Humid,Dubai International Stadium,Sri Lanka,Bangladesh,A.Fernando,RightArmFast,1,51,12.75,0
+T20,Flat,Sunny,R Premadasa Stadium,Sri Lanka,India,A.Fernando,RightArmFast,1,11,5.50,1
+T20,Spinning,Hot,Sharjah Cricket Stadium,Sri Lanka,Afghanistan,A.Fernando,RightArmFast,0,34,8.50,0
+T20,Flat,Windy,Rangiri Dambulla Intl.,Sri Lanka,West Indies,A.Fernando,RightArmFast,0,37,9.25,0
+T20,Dry,Overcast,Sylhet International Stadium,Sri Lanka,India,A.Fernando,RightArmFast,1,47,11.75,0
+ODI,Slow,Cloudy,Shere Bangla Stadium,Sri Lanka,Bangladesh,A.Fernando,RightArmFast,4,35,4.37,1
+ODI,Green,Overcast,Hagley Oval Christchurch,Sri Lanka,New Zealand,A.Fernando,RightArmFast,3,26,4.33,1
+ODI,Flat,Sunny,Mahinda Rajapaksha Intl.,Sri Lanka,Zimbabwe,A.Fernando,RightArmFast,3,50,5.00,1
+ODI,Dry,Humid,R Premadasa Stadium,Sri Lanka,Australia,A.Fernando,RightArmFast,3,23,3.28,1
+ODI,Green,Overcast,Seddon Park Hamilton,Sri Lanka,New Zealand,A.Fernando,RightArmFast,2,37,4.11,1
+ODI,Flat,Sunny,Gaddafi Stadium,Sri Lanka,Pakistan,A.Fernando,RightArmFast,0,66,7.92,0
+ODI,Slow,Overcast,Multan Cricket Stadium,Sri Lanka,Pakistan,A.Fernando,RightArmFast,1,42,4.20,0
+ODI,Dry,Sunny,Harare Sports Club,Sri Lanka,Zimbabwe,A.Fernando,RightArmFast,2,67,7.44,0
+ODI,Green,Cloudy,Harare Sports Club,Sri Lanka,Zimbabwe,A.Fernando,RightArmFast,3,50,5.00,1
+ODI,Spinning,Humid,R Premadasa Stadium,Sri Lanka,Bangladesh,A.Fernando,RightArmFast,3,33,4.71,1
+ODI,Dry,Overcast,R Premadasa Stadium,Sri Lanka,Bangladesh,A.Fernando,RightArmFast,4,35,3.88,1
+ODI,Slow,Sunny,R Premadasa Stadium,Sri Lanka,Bangladesh,A.Fernando,RightArmFast,1,38,7.60,0
+ODI,Green,Humid,Pallekele International,Sri Lanka,Australia,A.Fernando,RightArmFast,3,23,5.75,1
+ODI,Flat,Sunny,Pallekele International,Sri Lanka,Australia,A.Fernando,RightArmFast,2,23,4.60,1
+ODI,Green,Overcast,Hagley Oval,Sri Lanka,New Zealand,A.Fernando,RightArmFast,3,26,3.71,1
+T20,Flat,Humid,Pallekele International,Sri Lanka,India,A.Fernando,RightArmFast,1,47,11.75,0
+T20,Slow,Cloudy,Dubai International Stadium,Sri Lanka,India,A.Fernando,RightArmFast,0,28,14.00,0
+T20,Flat,Sunny,R Premadasa Stadium,Jaffna Kings,Galle Marvels,A.Fernando,RightArmFast,3,35,8.75,1
+T20,Dry,Windy,Rangiri Dambulla Intl.,Jaffna Kings,Colombo Strikers,A.Fernando,RightArmFast,2,38,9.50,0
+T20,Flat,Sunny,Rangiri Dambulla Intl.,Jaffna Kings,Dambulla Sixers,A.Fernando,RightArmFast,2,25,6.25,1
+T20,Slow,Humid,Pallekele International,Jaffna Kings,Kandy Falcons,A.Fernando,RightArmFast,1,19,9.50,0
+T20,Flat,Overcast,Pallekele International,Jaffna Kings,Kandy Falcons,A.Fernando,RightArmFast,0,35,10.93,0
+T20,Dry,Sunny,R Premadasa Stadium,Jaffna Kings,Galle Marvels,A.Fernando,RightArmFast,0,33,11.00,0
+T20,Slow,Windy,R Premadasa Stadium,Jaffna Kings,Kandy Falcons,A.Fernando,RightArmFast,0,43,10.75,0
+T20,Green,Cloudy,Daren Sammy Stadium,Sri Lanka,West Indies,A.Fernando,RightArmFast,0,37,9.25,0
+
